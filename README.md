@@ -7,6 +7,7 @@ Una moderna applicazione web per la gestione di una biblioteca. Gli **amministra
 - **Laravel 12** – Backend
 - **Vue 3 + Inertia.js** – Frontend reactive con esperienza SPA
 - **MySQL** – Database relazionale (eseguito in Docker)
+- **Laravel Sail** - Dockerizzazione dell'app
 
 ## ⚙️ Funzionalità
 
